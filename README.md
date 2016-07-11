@@ -128,7 +128,7 @@ Outline
 Morning Session
 ---------------
 
-- 01 Introduction to machine learning with sample applications, Supervised and Unsupervised learning
+- 01 Introduction to machine learning with sample applications, Supervised and Unsupervised learning [[view](notebooks/01\ Introduction\ to\ Machine\ Learning.ipynb)]
 - 02 Scientific Computing Tools for Python: NumPy, SciPy, and matplotlib
 - 03 Data formats, preparation, and representation
 - 04 Supervised learning: Training and test data
