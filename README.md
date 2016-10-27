@@ -1,4 +1,4 @@
-Webstep Scikit-learn 2016 Tutorial
+Webstep 2016 Scikit-learn Tutorial
 ================================
 
 Based on the [SciPy 2016 tutorial](https://github.com/amueller/scipy-2016-sklearn) by [Kyle Kastner](https://kastnerkyle.github.io/), [Sebastian Raschka](http://sebastianraschka.com), and [Andreas Mueller](http://amueller.github.io).
@@ -7,7 +7,7 @@ Based on the [SciPy 2016 tutorial](https://github.com/amueller/scipy-2016-sklear
 Instructor
 -----------
 
-- [Dr. Randy Olson](http://randalolson.com.com)  [@rasbt](https://twitter.com/randal_olson) - University of Pennsylvania Institute for Biomedical Informatics
+- [Dr. Randy Olson](http://randalolson.com.com)  [(@randal_olson)](https://twitter.com/randal_olson) - University of Pennsylvania Institute for Biomedical Informatics
 
 ---
 
