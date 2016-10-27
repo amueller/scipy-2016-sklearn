@@ -13,15 +13,15 @@ Instructor
 
 This repository will contain the teaching material and other information associated with our scikit-learn tutorial.
 
-Parts 1 to 5 make up the day 1 session, while
-parts 6 to 9 will be presented in the day 2 session.
+Parts 1 to 12 make up the day 1 session, while
+parts 13 to 23 will be presented in the day 2 session.
 
 ### Schedule:
 
 The 2-part tutorial will be held on Saturday and Sunday, October 29-30, 2016.
 
-- Parts 1 to 5: 9:00 AM - 3:00 PM
-- Parts 6 to 9: 9:00 AM - 3:00 PM
+- Parts 1 to 12: 9:00 AM - 3:00 PM
+- Parts 13 to 23: 9:00 AM - 3:00 PM
 
 
 Obtaining the Tutorial Material
@@ -150,4 +150,4 @@ Day 2 Session
 - 20 Supervised learning: feature selection [[view](notebooks/20\ Feature\ Selection.ipynb)]
 - 21 Unsupervised learning: Hierarchical and density-based clustering algorithms [[view](notebooks/21\ Unsupervised\ learning\ -\ Hierarchical\ and\ density-based\ clustering\ algorithms.ipynb)]
 - 22 Unsupervised learning: Non-linear dimensionality reduction [[view](notebooks/22\ Unsupervised\ learning\ -\ Non-linear\ dimensionality\ reduction.ipynb)]
-- 23 Supervised learning: Out-of-core learning [[view](notebooks/23\ Out-of-core\ Learning\ Large\ Scale\ Text\ Classification.ipynb)]
+- 23 Automated machine learning [[view](NA)]
