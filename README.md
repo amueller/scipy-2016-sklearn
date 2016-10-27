@@ -76,20 +76,20 @@ The code examples in this tutorial should be compatible to Python 2.7,
 Python 3.4, and Python 3.5.
 
 After obtaining the material, we **strongly recommend** that you open and execute the Jupyter Notebook
-`jupter notebook check_env.ipynb` that is located at the top level of this repository. Inside the repository, you can open the notebook
+`check_env.ipynb` that is located at the top level of this repository. You can open the notebook
 by executing
 
 ```bash
 jupyter notebook check_env.ipynb
 ```
 
-inside this repository. Inside the Notebook, you can run the code cell by
+inside this repository. Inside the notebook, you can run the code cell by
 clicking on the "Run Cells" button as illustrated in the figure below:
 
 ![](images/check_env-1.png)
 
 
-Finally, if your environment satisfies the requirements for the tutorials, the executed code cell will produce an output message as shown below:
+Finally, if your environment satisfies the requirements for the tutorials, the executed code cell will produce an output message similar to the one shown below:
 
 ![](images/check_env-2.png)
 
@@ -98,7 +98,6 @@ Although not required, we also recommend that you update the required Python pac
 
 - `conda update [package-name]` 
 - or `pip install [package-name] --upgrade`
-
 
 
 Data Downloads
