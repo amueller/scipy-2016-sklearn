@@ -9,3 +9,5 @@ matplotlib>=1.4.3
 graphviz>=0.4.4
 pyparsing==1.5.7
 pydot
+tpot
+watermark
