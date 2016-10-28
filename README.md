@@ -7,7 +7,7 @@ Based on the [SciPy 2016 tutorial](https://github.com/amueller/scipy-2016-sklear
 Instructor
 -----------
 
-- [Dr. Randy Olson](http://randalolson.com.com)  [(@randal_olson)](https://twitter.com/randal_olson) - University of Pennsylvania Institute for Biomedical Informatics
+- [Dr. Randy Olson](http://randalolson.com)  [(@randal_olson)](https://twitter.com/randal_olson) - University of Pennsylvania Institute for Biomedical Informatics
 
 ---
 
