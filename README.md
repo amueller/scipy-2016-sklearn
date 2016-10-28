@@ -151,4 +151,4 @@ Day 2 Session
 - 20 Supervised learning: feature selection [[view](notebooks/20\ Feature\ Selection.ipynb)]
 - 21 Unsupervised learning: Hierarchical and density-based clustering algorithms [[view](notebooks/21\ Unsupervised\ learning\ -\ Hierarchical\ and\ density-based\ clustering\ algorithms.ipynb)]
 - 22 Unsupervised learning: Non-linear dimensionality reduction [[view](notebooks/22\ Unsupervised\ learning\ -\ Non-linear\ dimensionality\ reduction.ipynb)]
-- 23 Automated machine learning [[view](NA)]
+- 23 Automated machine learning [[view](notebooks/23\ Automated\ machine\ learning.ipynb)]
