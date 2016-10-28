@@ -53,6 +53,7 @@ This tutorial will require recent installations of
 - [matplotlib](http://matplotlib.org)
 - [pillow](https://python-pillow.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [pandas](http://pandas.pydata.org/)
 - [TPOT](https://pypi.python.org/pypi/TPOT/)
 - [Watermark](https://pypi.python.org/pypi/watermark)
 - [PyYaml](http://pyyaml.org/wiki/PyYAML)
