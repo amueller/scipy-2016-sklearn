@@ -148,7 +148,7 @@ Day 2 Session
 - 17 Supervised learning: Linear Models [[view](notebooks/17\ In\ Depth\ -\ Linear\ Models.ipynb)]
 - 18 Supervised learning: Support Vector Machines [[view](notebooks/18\ In\ Depth\ -\ Support\ Vector\ Machines.ipynb)]
 - 19 Supervised learning: Decision trees and random forests, and ensemble methods [[view](notebooks/19\ In\ Depth\ -\ Trees\ and\ Forests.ipynb)]
-- 20 Supervised learning: feature selection [[view](notebooks/20\ Feature\ Selection.ipynb)]
+- 20 Supervised learning: Feature selection [[view](notebooks/20\ Feature\ Selection.ipynb)]
 - 21 Unsupervised learning: Hierarchical and density-based clustering algorithms [[view](notebooks/21\ Unsupervised\ learning\ -\ Hierarchical\ and\ density-based\ clustering\ algorithms.ipynb)]
 - 22 Unsupervised learning: Non-linear dimensionality reduction [[view](notebooks/22\ Unsupervised\ learning\ -\ Non-linear\ dimensionality\ reduction.ipynb)]
 - 23 Automated machine learning [[view](notebooks/23\ Automated\ machine\ learning.ipynb)]
